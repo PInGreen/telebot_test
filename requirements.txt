@@ -1,4 +1,0 @@
-import telebot
-import config
-import assortiment
-import time
